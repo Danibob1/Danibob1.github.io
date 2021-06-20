@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    box-sizing: border-box;	
+}
+
+
+body{
+	
+	margin-left: 10px;
+	margin-right: 100px ;
+    padding: 10px;
+	text-align: left ;
+   	background-color: rgb(100,164,95);
+    color: black;
+    font-family:"monospace ", serif;
+    border: solid;
+ 	border: black;
+}
+
+
+
+.titulo{
+	font-family:monospace;
+	border: solid;
+	font-size: 30px;
+	text-align: left;
+	border-color: white;
+	background: #FFFFFF;
+}
+
+.home{
+	border: solid;
+	margin-top:0px;
+	margin-left: 0px;
+	margin-right: 0px ;
+	border-color: white;
+	background: #FFFFFF;
+}
+
+.conteiner{
+	font-family: fantasy;
+	font-size: 30px;
+}
+
+
+.imagen{
+	text-align: center;
+	width: 50px ;
+	height: 50px;
+}
